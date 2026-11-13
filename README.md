@@ -55,5 +55,5 @@ The GitHub Actions workflow defined in `.github/workflows/main.yml` performs the
 7. Simulate deployment
 
 ## Author
-Shraddha Saknure
+Shraddha Saknure.
 
